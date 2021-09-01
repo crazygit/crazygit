@@ -4,11 +4,11 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=crazygit&show_icons=true&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
 
-I'm `crazygit`
+I'm `crazygit`,  ❤️ programming, want to use my fingers to create the world in my heart.
 
-- working on DeYang, SiCuan, China.
-- GPG Key: [5B338FD222D71A70](https://github.com/crazygit.gpg)
-- [SSH Public Key](https://github.com/crazygit.keys)
+- 🏠 working on DeYang, SiCuan, China.
+- 🔑 GPG Key: [5B338FD222D71A70](https://github.com/crazygit.gpg)
+- 🗝️ [SSH Public Key](https://github.com/crazygit.keys)
 
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazygit&layout=compact&show_icons=true&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
 
