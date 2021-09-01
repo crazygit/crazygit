@@ -7,7 +7,8 @@
 I'm `crazygit`
 
 - working on DeYang, SiCuan, China.
-
+- GPG Key: [5B338FD222D71A70](https://github.com/crazygit.gpg)
+- [SSH  Key](https://github.com/crazygit.keys)
 
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazygit&layout=compact&show_icons=true&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
 
