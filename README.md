@@ -9,7 +9,7 @@ I'm `crazygit`
 - working on DeYang, SiCuan, China.
 
 
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazygit&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazygit&layout=compact&show_icons=true&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
