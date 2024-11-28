@@ -6,7 +6,7 @@
 
 I'm `crazygit`,  ❤️ programming, want to use my fingers to create the world in my heart.
 
-- 🏠 working on DeYang, SiCuan, China.
+- 🏠 working on ChengDu, SiCuan, China.
 - 🔑 GPG Key: [5B338FD222D71A70](https://github.com/crazygit.gpg)
 - 🗝️ [SSH Public Key](https://github.com/crazygit.keys)
 
